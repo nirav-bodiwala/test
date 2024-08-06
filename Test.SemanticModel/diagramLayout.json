@@ -1,0 +1,307 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 168.45227059589897
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 505.93922993584806,
+            "y": 0
+          },
+          "nodeIndex": "VBI_Companies",
+          "nodeLineageTag": "c04d849f-0584-4a88-9d69-7f94e62af609",
+          "size": {
+            "height": 191.31384278144535,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 138.926015345228,
+            "y": 0
+          },
+          "nodeIndex": "VBI_Divsions",
+          "nodeLineageTag": "c972d68b-2a5a-4544-8155-f69597b58702",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 767.441995334429,
+            "y": 582.753801456438
+          },
+          "nodeIndex": "VBI_Jobs",
+          "nodeLineageTag": "103bea42-709f-46e9-9e28-fc263a8471eb",
+          "size": {
+            "height": 312.31813968207052,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 1125.1736407221933,
+            "y": 837.4927541574184
+          },
+          "nodeIndex": "VBI_CostCodes",
+          "nodeLineageTag": "298992e8-7e82-4307-8057-860dab9e9e86",
+          "size": {
+            "height": 486.82888193363328,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 840.99049139211411,
+            "y": 1257.8575415477833
+          },
+          "nodeIndex": "VBI_CostTypes",
+          "nodeLineageTag": "abed26c9-5842-41cd-be19-d82f025d017c",
+          "size": {
+            "height": 191.35778382399803,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1539.5816831671352,
+            "y": 958.9585089552445
+          },
+          "nodeIndex": "VBI_JobLabor",
+          "nodeLineageTag": "a7bcafe6-5b4c-43b5-a85d-4f923922df63",
+          "size": {
+            "height": 234.26447090094211,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 1503.5435293227561,
+            "y": 348.63233741333187
+          },
+          "nodeIndex": "VBI_Employees",
+          "nodeLineageTag": "ba0af904-cb80-454a-b747-d3573680b385",
+          "size": {
+            "height": 371.64871600082643,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1122.8285553508342,
+            "y": 607.00779655517238
+          },
+          "nodeIndex": "VBI_JobAssignments",
+          "nodeLineageTag": "aaecd473-f24c-4617-a9c4-b253029ebe9f",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1573.8239239532079,
+            "y": 0
+          },
+          "nodeIndex": "VBI_GeneralLabor",
+          "nodeLineageTag": "6c4de5e0-e004-4e98-8720-e8ea0c374a25",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 2086.6542164812736,
+            "y": 546.14242387822992
+          },
+          "nodeIndex": "VBI_UserLogins",
+          "nodeLineageTag": "5a5ab4b2-5a72-4f42-9e6f-35c35b9f33f9",
+          "size": {
+            "height": 175.8884722299465,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 130.20041696508056,
+            "y": 368.47387998267874
+          },
+          "nodeIndex": "VBI_LaborSummary",
+          "nodeLineageTag": "fe3b3750-534f-4ef6-920b-d43f5468d6ce",
+          "size": {
+            "height": 653.749768251388,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1384.5323059285263,
+            "y": 1253.040249555007
+          },
+          "nodeIndex": "VBI_ManPower",
+          "nodeLineageTag": "f0b35fa2-e887-4b91-b01c-bb598bb29637",
+          "size": {
+            "height": 408.21422105932311,
+            "width": 230.56611772523547
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 411.39756161785613,
+            "y": 361.28811281546581
+          },
+          "nodeIndex": "VBI_JobTrendSummary",
+          "nodeLineageTag": "a7c56a71-0601-40fe-ba42-8614928354e2",
+          "size": {
+            "height": 321.43937989402349,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 409.91534966954191,
+            "y": 709.65982391625653
+          },
+          "nodeIndex": "VBI_CashPosition",
+          "nodeLineageTag": "620d3929-d8d8-42c1-83f5-f133eb7e15f5",
+          "size": {
+            "height": 312.25107422515623,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1123.7166229721395,
+            "y": 325.93567832354427
+          },
+          "nodeIndex": "VBI_Sales",
+          "nodeLineageTag": "d88f8bd9-465e-4cc6-89b3-fd5cde2e3b3b",
+          "size": {
+            "height": 257.1883056688672,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 957.84249056870476,
+            "y": 145.47642146227429
+          },
+          "nodeIndex": "VBI_Customers",
+          "nodeLineageTag": "c86a3fac-c055-4402-a30e-c6f766cb5d81",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 1843.1880326922017,
+            "y": 786.88451712678136
+          },
+          "nodeIndex": "VBI_SalesGoals",
+          "nodeLineageTag": "5c47abe1-9665-4c04-9e50-c35bcfec554a",
+          "size": {
+            "height": 218.88635251120445,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1969.059589065504,
+            "y": 244.56897898076267
+          },
+          "nodeIndex": "VBI_TurnOver",
+          "nodeLineageTag": "84c95119-4990-4688-83c2-3b433fd396d9",
+          "size": {
+            "height": 208.54752976355996,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1968.94400083955,
+            "y": 17.797566055817114
+          },
+          "nodeIndex": "VBI_ActiveEmpPerYear",
+          "nodeLineageTag": "de391ab2-808a-4a50-9cb4-21d3bf0edd89",
+          "size": {
+            "height": 164.05576388502675,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2660.4416591260797,
+            "y": 302.87672038095405
+          },
+          "nodeIndex": "VBI_Dates",
+          "nodeLineageTag": "5d7dd84d-7b04-4bd1-a50d-ad25dab8c5de",
+          "size": {
+            "height": 820.23316462681419,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 409.96793131584519,
+            "y": 1049.9208573003009
+          },
+          "nodeIndex": "VT_JobSummary",
+          "nodeLineageTag": "6302f088-006a-4ec2-971c-7266fec36d59",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 2814.2412421609993,
+            "y": 730.627235307165
+          },
+          "nodeIndex": "Key Measures",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 65.300396136469757,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

@@ -1,0 +1,5 @@
+{
+  "objectId": "",
+  "type": 4,
+  "explorationState": "{\"version\":\"1.8\",\"activeSection\":\"\",\"sections\":{\"ReportSection0ac027f103435ed6cbde\":{\"visualContainers\":{\"60216ae3abd16588aa0e\":{\"singleVisual\":{\"visualType\":\"textbox\",\"mobileObjects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Please note that these data sets are not live.\",\"textStyle\":{\"fontWeight\":\"bold\",\"color\":\"#d64550\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Having issues? Email \",\"textStyle\":{\"fontWeight\":\"bold\",\"color\":\"#d64550\"}},{\"value\":\"MoranMobile@femoran.com\",\"textStyle\":{\"fontWeight\":\"bold\",\"color\":\"#d64550\"},\"url\":\"mailto:MoranMobile@femoran.com\"}],\"horizontalTextAlignment\":\"center\"}]}}]}}}}}}}"
+}

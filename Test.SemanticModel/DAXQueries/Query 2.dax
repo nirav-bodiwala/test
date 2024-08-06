@@ -1,0 +1,6 @@
+EVALUATE
+	//VAR MaxOfHours = MAX(VBI_JobSummary[BudgetedHours], VBI_JobSummary[HoursPerPenta])
+	VAR SumBudgeted = CALCULATE(SUM(VBI_JobSummary[BudgetedHours]))
+	VAR SumPenta = CALCULATE(SUM(VBI_JobSummary[HoursPerPenta]))
+	VAR MaxHours = MAX(SumBudgeted, SumPenta)
+	RETURN MaxHours
